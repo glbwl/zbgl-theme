@@ -1,0 +1,1 @@
+<?php header("Content-type: text/html;charset=utf-8");echo '出错了，不能这样。http://www.glbwl.com';exit();?>{* Template Name:侧栏模板 *}{foreach $sidebar5 as $module}{template:module}{/foreach}

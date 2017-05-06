@@ -1,0 +1,1 @@
+<?php header("Content-type: text/html;charset=utf-8");echo '出错了，不能这样。http://www.glbwl.com';exit();?>{* Template Name:列表页单条置顶文章 *}<div class="istop"><div class="istop-img"></div><h2 class="istop-title"><a href="{$article.Url}" title="{$article.Title}">{$article.Title}</a></h2></div>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<theme version="php">
+<id>zbgl</id>
+<name>zbgl v1.2响应式博客主题</name>
+<url></url>
+<note>这是由孤狼制作的Z-Blog PHP免费主题，响应式模板，名为：zbgl</note>
+<description></description>
+<path></path>
+<include></include>
+<level>1</level>
+<author>
+  <name>孤狼</name>
+  <email>glbwl@qq.com</email>
+  <url>http://www.glbwl.com</url>
+</author>
+<source>
+  <name></name>
+  <email></email>
+  <url></url>
+</source>
+<adapted>151740</adapted>
+<version>1.2</version>
+<pubdate>2017-03-19</pubdate>
+<modified>2017-03-19</modified>
+<price>0</price>
+<phpver>5.2</phpver>
+<advanced>
+  <dependency></dependency>
+  <rewritefunctions></rewritefunctions>
+  <existsfunctions></existsfunctions>
+  <conflict></conflict>
+</advanced>
+<sidebars>
+  <sidebar1></sidebar1>
+  <sidebar2></sidebar2>
+  <sidebar3></sidebar3>
+  <sidebar4></sidebar4>
+  <sidebar5></sidebar5>
+</sidebars>
+</theme>

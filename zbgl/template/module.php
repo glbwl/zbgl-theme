@@ -1,0 +1,1 @@
+<?php header("Content-type: text/html;charset=utf-8");echo '出错了，不能这样。http://www.glbwl.com';exit();?>{* Template Name:单个模块 *}<div class="widget">{if (!$module.IsHideTitle)&&($module.Name)}<h3 class="widget-title">{$module.Name}</h3>{else}{/if}{if $module.Type=='div'}{$module.Content}{/if}{if $module.Type=='ul'}<ul class="{$module.HtmlID}">{$module.Content}</ul>{/if}</div>
