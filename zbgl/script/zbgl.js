@@ -5,7 +5,7 @@ return false;
 });
 
 /*反回顶部*/
-    $('.top').click(function() {
+    $('.top,.menu').click(function() {
         $('html,body').animate({
             scrollTop: '0px'
         }, 800)
